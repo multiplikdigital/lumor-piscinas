@@ -1,0 +1,10 @@
+{
+  "name": "Lumor Piscinas",
+  "short_name": "Lumor",
+  "description": "Reforma de piscinas, vinil, tela armada, aquecimento e soluções técnicas em Belo Horizonte e Região Metropolitana.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061a3a",
+  "theme_color": "#061a3a",
+  "lang": "pt-BR"
+}
